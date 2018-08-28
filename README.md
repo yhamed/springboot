@@ -4,4 +4,4 @@
 MongoDB (test)
 
 # Default admin credentials:
-admin@angular.fr:admin
+admin@angular.fr:123
