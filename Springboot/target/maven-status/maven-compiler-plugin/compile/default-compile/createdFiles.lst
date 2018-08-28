@@ -1,0 +1,16 @@
+com\tanit\repository\RandomCityRepository.class
+com\tanit\service\impl\AppUserDetailsService.class
+com\tanit\controller\ResourceController.class
+com\tanit\domain\User.class
+com\tanit\repository\RoleRepository.class
+com\tanit\repository\UserRepository.class
+com\tanit\domain\RandomCity.class
+com\tanit\service\GenericService.class
+com\tanit\config\ResourceServerConfig.class
+com\tanit\config\AdditionalWebConfig.class
+com\tanit\config\AuthorizationServerConfig.class
+com\tanit\service\impl\GenericServiceImpl.class
+com\tanit\config\DatasourceConfig.class
+com\tanit\SpringbootJwtApplication.class
+com\tanit\config\SecurityConfig.class
+com\tanit\domain\Role.class
