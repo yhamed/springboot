@@ -44,8 +44,8 @@ public class Utility {
 
         JSch jsch = new JSch();
         try {
-            Session session = jsch.getSession("hamedy", "ssh-hamedy.alwaysdata.net", 22);
-            session.setPassword("123");
+            Session session = jsch.getSession("hamedy", "ssh-domain", 22);
+            session.setPassword("yourpassword");
             Properties config = new Properties();
             config.put("StrictHostKeyChecking", "no");
             session.setConfig(config);
